@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soydani
+- 👋 Hi, I’m @soymonty
 - 👀 I’m interested in music, tech, videogames and nature
 - 🌱 I’m currently learning software engineering
 
